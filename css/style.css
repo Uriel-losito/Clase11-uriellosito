@@ -1,0 +1,34 @@
+
+/*navbar*/
+
+.navbar-brand {
+    font-size: 39px;
+}
+
+.nav-item {
+    color: black;
+}
+
+.mtb_ {
+    width: 290px;
+}
+
+
+
+/* footer*/
+
+.footer_content {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.title_ {
+    color: white;
+    font-size: 30px;
+    padding-top: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+
